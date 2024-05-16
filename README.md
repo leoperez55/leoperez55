@@ -1,18 +1,16 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Leonel perez</h1>
-<h3 align="center">Just a guy who likes making cool stuff while programming.</h3>
-<img align="right" alt="Coding" width="400" src="[https://replicate.delivery/pbxt/D2zoqjPagoqfWaXCkftye1T8fEcrcYNDv0ezauvb2YEWhboWC/000001.mp4"](https://camo.githubusercontent.com/8e7b8fa6ba5ff2c93744149689a1c4eee6b663f3bea9463d109c76ba1e22b3a4/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966)">
+<h1 align="center">Hi 👋, I'm Leonel Perez</h1>
+<h3 align="center">Just a guy who likes making cool stuff while programming. And Food...</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8e7b8fa6ba5ff2c93744149689a1c4eee6b663f3bea9463d109c76ba1e22b3a4/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoperez55&label=Profile%20views&color=0e75b6&style=flat" alt="leoperez55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leoperez55" alt="leoperez55" /></a> </p>
-
-- 🔭 I’m currently working on **Video Game**
+- 🔭 I’m currently working on **a Video Game**
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Verse**
+- 💬 Ask me about **Verse and game programming in Unreal Engine**
 
 - ⚡ Fun fact **I love watching movies and debating them**
 
